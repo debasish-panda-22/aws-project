@@ -31,7 +31,7 @@ A production-ready Python web application to manage employee records with image 
 ### 1. Launch AWS EC2 Instance
 
 - Use Ubuntu 22.04 (t2.micro for free tier)
-- Allow inbound access to ports `22`, `80`, and `443` in security group
+- Allow inbound access to ports `22`, `80`, and `443` in the security group
 
 ### 2. Connect to EC2 & Install Dependencies
 
